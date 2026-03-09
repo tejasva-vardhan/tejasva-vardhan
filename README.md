@@ -20,7 +20,7 @@
 
 - 🎓 **ISE Student** at Dayananda Sagar College of Engineering, Bangalore  
 - 💡 Passionate about **backend systems**, **performance engineering**, and **low-level optimizations**  
-- 🚀 Active **open source contributor** – [OneBusAway Maglev](https://github.com/OneBusAway/onebusaway-maglev)  
+- 🚀 Active **open source contributor** – [OneBusAway Maglev](https://github.com/OneBusAway/maglev)  
 - ⚡ Competitive programmer with **CodeChef 2★** and **Codeforces 1078** rating  
 - 🔭 Currently diving deep into **Go**, **API benchmarking**, and **memory profiling**  
 
@@ -38,9 +38,12 @@
 ## 🛠️ Tech Stack & Tools
 
 ### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Performance
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -57,7 +60,7 @@
 
 ## 📂 Featured Projects / Contributions
 
-- **[OneBusAway Maglev](https://github.com/OneBusAway/onebusaway-maglev)** – Contributed to GTFS data refresh performance, memory profiling, and API benchmarking.  
+- **[OneBusAway Maglev](https://github.com/OneBusAway/maglev)** – Contributed to GTFS data refresh performance, memory profiling, and API benchmarking.  
 - *[Your personal project]* – Short description (if any).  
 - *[Another cool project]* – What it does, stack used.  
 
