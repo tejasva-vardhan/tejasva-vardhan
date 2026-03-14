@@ -74,7 +74,7 @@
 |----------|--------|--------|
 | CodeChef | [tejasss_01](https://www.codechef.com/users/tejasss_01) | ⭐⭐ (2★) |
 | Codeforces | [TEJASVAvardhan](https://codeforces.com/profile/TEJASVAvardhan) | 1078 |
-| LeetCode | [TEJASVAvardhan](https://leetcode.com/u/TEJASVAvardhan/) | (add your rating) |
+| LeetCode | [TEJASVAvardhan](https://leetcode.com/u/TEJASVAvardhan/) |  |
 
 ---
 
