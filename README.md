@@ -61,10 +61,7 @@
 ## 📂 Featured Projects / Contributions
 
 - **[OneBusAway Maglev](https://github.com/OneBusAway/maglev)** – Contributed to GTFS data refresh performance, memory profiling, and API benchmarking.  
-- *[Your personal project]* – Short description (if any).  
-- *[Another cool project]* – What it does, stack used.  
 
-*(Add your own projects here to showcase your work!)*
 
 ---
 
