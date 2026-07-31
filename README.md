@@ -21,7 +21,7 @@
 - 🎓 **ISE Student** at Dayananda Sagar College of Engineering, Bangalore  
 - 💡 Passionate about **backend systems**, **performance engineering**, and **low-level optimizations**  
 - 🚀 Active **open source contributor** – [OneBusAway Maglev](https://github.com/OneBusAway/maglev)  
-- ⚡ Competitive programmer with **CodeChef 2★** and **Codeforces 1078** rating  
+- ⚡ Competitive programmer with **CodeChef 2★** and **Codeforces 1129** rating  
 - 🔭 Currently diving deep into **Go**, **API benchmarking**, and **memory profiling**  
 
 ---
